@@ -1,4 +1,4 @@
-# Trustless Token Factory
+# Trustless token Factory
 
 This repo contains Solidity smart contract code to mint simple, standards-compliant tokens on Ethereum. It can be used to generate any form of asset, currency, coin, hours, usage tokens, vunk, etc.  
 
